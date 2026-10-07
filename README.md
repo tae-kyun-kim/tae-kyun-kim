@@ -11,16 +11,15 @@ My research focuses on **robot manipulation, physical interaction, robust state 
 
 
 
-- **Taekyun Kim**, Sangbae Kim, and Dongjun Lee,  
-  “[Tunable Impact and Vibration Absorbing Neck for Robust Visual-Inertial State Estimation for Dynamic Legged Robots](https://doi.org/10.1109/LRA.2023.3240369),” *IEEE Robotics and Automation Letters*, 2023. Oral presentation at IROS 2024.
-
-
 
 - **Taekyun Kim**, Byoungkwon Yoon, and Dongjun Lee,  
   “[UWB-Based Localization System Considering Antenna Anisotropy and NLOS/Multipath Conditions](https://doi.org/10.1109/IROS58592.2024.10802170),” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.
 
   
 
+
+- **Taekyun Kim**, Sangbae Kim, and Dongjun Lee,  
+  “[Tunable Impact and Vibration Absorbing Neck for Robust Visual-Inertial State Estimation for Dynamic Legged Robots](https://doi.org/10.1109/LRA.2023.3240369),” *IEEE Robotics and Automation Letters*, 2023. Oral presentation at IROS 2023.
 ## Technical Skills
 
 | Area | Tools and Experience |
