@@ -2,7 +2,7 @@
 
 I am a Ph.D. candidate in Mechanical Engineering at Seoul National University, working in the [Interactive & Networked Robotics Laboratory (INRoL)](https://inrol.snu.ac.kr/) under the supervision of Prof. Dongjun Lee. I expect to graduate in February 2027.
 
-My research focuses on **robot manipulation, physical interaction, robust state estimation, and dynamics-based robot design**. I develop control and state estimation frameworks for robots that must operate reliably with the physical world, and I validate them on custom-built robotic hardware.
+My research focuses on **robot manipulation, physical interaction, robust state estimation, and dynamics-aware robot design**. I develop control and state estimation frameworks for robots that must operate reliably in the physical world, and I validate them on custom-built robotic hardware.
 
 ## Selected Publications
 
